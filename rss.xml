@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dale]]></title>
         <description><![CDATA[Dale]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dale/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 03:30:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 03:30:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dale/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/dale/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">09f02a75-c107-466a-b44c-dfe926e8ad8d</guid>
+            <pubDate>Wed, 09 Dec 2015 03:30:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Dale' new website!</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/dale/welcome/index.html</link>
             <guid isPermaLink="false">43d2f18f-085e-4a62-aa6f-00714ebe6c79</guid>
             <pubDate>Wed, 09 Dec 2015 03:30:18 GMT</pubDate>
         </item>
